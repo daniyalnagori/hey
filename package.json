@@ -20,10 +20,10 @@
     "@typescript-eslint/parser": "^3.8.0",
     "cross-fetch": "^3.0.6",
     "gatsby": "^2.24.34",
+    "gatsby-plugin-netlify-functions": "^0.0.3",
     "gatsby-plugin-typescript": "^2.4.17",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "typescript": "^3.9.7"
   }
 }
-
